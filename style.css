@@ -1,0 +1,196 @@
+body{background-image: url("imagens/Background.png")}
+
+tr{height: 150px;}
+
+td{width: 150px;}
+
+h1{font-family: "Kode Mono", monospace;
+font-weight: 100;}
+
+h3{font-family: "Kode Mono", monospace;
+font-weight: 500;}
+
+#logo{width: 60px;
+height: 60px;}
+
+#topbar{height: 60px;
+background-color: #1E324C;}
+
+.primeiraColuna{
+width: 60px;
+}
+
+#linhah3{
+    height: 40px;
+}
+
+.botoesVerdes{
+    background-color: #57c84d;
+    height: 40px;
+    width: 150px;
+    border-radius: 10px;
+    border: 0px;
+}
+
+#botaoAzul{
+    background-color: #4dbbc8;
+    height: 40px;
+    width: 150px;
+    border-radius: 10px;
+    border: 0px;
+    justify-self: right;
+}   
+
+#botaoSaibaMais{
+    background-color: #4dbbc8;
+    height: 30px;
+    width: 180px;
+    border-radius: 10px;
+    border: 0px;
+}
+
+.classeDireita{
+    justify-content: right;
+}
+
+.coluna5{width: 100px;}
+
+.coluna2{width: 120px;}
+
+.textoinferior{
+    font-size: small;
+}
+
+#textalignright{
+    text-align: right;
+}
+
+.coluna8{
+    width: 200px;
+}
+
+.coluna6{
+    width: 50px;
+}
+
+.coluna4{
+    width: 200px;
+}
+
+.espacamentoHorizontal{
+    width:400px;
+}
+
+#espacamentoVertical{
+    height:290px
+}
+
+#bottomBar{
+    height: 120px;
+    background-color: #1E324C;
+    color: #FFFF;
+}
+
+h4{
+    font-size: 14px;
+    font-weight: 100;
+}
+
+/* ------------Página quem somos------------- */
+
+#textoquemsomos{
+    font-size: 25px;
+    font-family: "Kode Mono", monospace;
+}
+
+#espacotextoquemsomos{
+    height: 500px;
+    width:  1000px;
+}
+
+.textaligncenter{
+    text-align: center;
+}
+
+#espacolinha2quemsomos{
+    width: 488px;
+}
+
+.espacobotaoquemsomos{
+    width: 210px;
+}
+
+#penultimacolunaquemsomos{
+    width: 300px;
+}
+
+/* -----------Página Contato------------ */
+
+#divcontato{
+    background-color: #3A8555;
+    border-radius: 10px;
+    height: 600px;
+    width: 400px;
+    text-align: center;
+}
+
+.inputs{
+    border-radius: 5px;
+    height: 40px;
+    width: 300px;
+}
+
+#inputmensagem{
+    border-radius: 5px;
+    height: 200px;
+    width: 300px;
+}
+
+#inputsubmit{
+    border-radius:5px;
+    background-color:#4dbbc8;
+    width:150px;
+    height:35px;
+}
+
+label{
+    font-family: "Kode Mono", monospace;
+}
+
+/* ----------Hardwares----------*/
+
+#ultimacolunahardwares{
+width: 360px;
+}
+
+.produtoshardwares{
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    height: 700px;
+}
+
+.divsprodutos{
+    background-color: #1E324C;
+    width:400px;
+    height:700px;
+    border-radius: 20px;
+    color:#FFFF;
+}
+
+#btnvoltar{
+    height: 50px;
+    width: 50px;
+}
+
+#linhavoltar{
+    height: 70px;
+}
+
+#primeiracolunahardwares{
+    width: 200px;
+}
+
+.linhaespaco{
+    height: 20px;
+}
